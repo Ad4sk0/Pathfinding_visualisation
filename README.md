@@ -1,9 +1,7 @@
 # Pathfinding_visualisation
-This pygame script visualizes work of path-finding algorithm 
+This pygame script visualizes work of path-finding algorithm. 
 
 usage: main.py [-h] [--fps FPS] [--walls_ratio WALLS_RATIO] [--hide_track] [--hide_moves] [--show_fscore] [--autooff] [--distance {euclidian,manhattan}] [--educative]
-
-Pathfinding algorithm visualization
 
 optional arguments:<br />
   &emsp;-h, --help            show this help message and exit<br />
